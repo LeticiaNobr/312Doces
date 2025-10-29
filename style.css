@@ -4,7 +4,7 @@
     font-family: fantasy;
 }
 body{
-    background-image: linear-gradient( to bottom, #0A0A12 0%, #1e1233 40%, #A040FF 80%, #FF66CC 100%);
+    background-image: linear-gradient( to bottom, #ababf0 0%, #a785e2 40%, #A040FF 80%, #FF66CC 100%);
     background-attachment: fixed;
 }
 main{
@@ -22,14 +22,29 @@ h1{
     text-shadow: 1px 1px 2px #d460f7;
 
 }
+h3{
+     color:#a040ff8a;
+    text-align: center;
+    text-shadow: 1px 1px 2px #d460f7;
+
+}
 h4{
-color:#FF66CC;
-text-shadow: 1px 1px 2px #fc1299;
+color: #28064b;
+text-shadow: 5px 5px 5px #f513b1;
 }
 p{
     text-align:justify;
 }
-audio{
-
+hr{
+    border-color: #28064b;
+}
+ol{
+color:#fcb0ad;
+text-align: center;
+text-shadow: 1px 3px 1px #28064b;
+}
+ul{
+color: #ffbfbd;
+text-align: left;
 }
 
